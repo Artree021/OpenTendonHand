@@ -38,12 +38,15 @@ An open-source high-DOF tendon-driven dexterous hand.
 Gerber 文件：[`pcb/AD7606b-gerber.zip`](pcb/AD7606b-gerber.zip)
 
 **3D 渲染**
+
 <img src="images/ad7606b-3d-render.png" width="600">
 
 **PCB 正面**
+
 <img src="images/ad7606b-pcb-front.png" width="600">
 
 **原理图**
+
 <img src="images/ad7606b-schematic.png" width="600">
 
 ## 使用说明
