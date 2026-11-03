@@ -15,9 +15,9 @@ further development.
 ![The hand](images/hand-photo.jpg)
 
 <p align="center">
-  <img src="images/hand-front.png" height="420" alt="Front view">
+  <img src="images/hand-front.png" height="360" alt="Front view">
   &nbsp;&nbsp;&nbsp;
-  <img src="images/hand-back.png" height="420" alt="Back view">
+  <img src="images/hand-back.png" height="360" alt="Back view">
 </p>
 
 ## Contents
