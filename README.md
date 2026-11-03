@@ -51,7 +51,7 @@ Gerber 文件：[`pcb/AD7606b-gerber.zip`](pcb/AD7606b-gerber.zip)
 
 ## 设计文档
 
-[`docs/机械手.pdf`](docs/机械手.pdf)（17 页）
+[`docs/机械手.pdf`](docs/机械手.pdf)（16 页）
 
 > 本文档由作者 [@Artree021](https://github.com/Artree021) 在本科阶段参加竞赛时整理，内容仅供参考，不保证全部真实、准确或完整。
 

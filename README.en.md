@@ -53,7 +53,7 @@ Gerber files: [`pcb/AD7606b-gerber.zip`](pcb/AD7606b-gerber.zip)
 
 ## Design document
 
-[`docs/机械手.pdf`](docs/机械手.pdf) (17 pages, Chinese)
+[`docs/机械手.pdf`](docs/机械手.pdf) (16 pages, Chinese)
 
 > This document was put together by [@Artree021](https://github.com/Artree021)
 > during undergraduate student competitions. It is provided for reference only:
