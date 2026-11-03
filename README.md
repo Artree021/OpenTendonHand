@@ -27,7 +27,7 @@ An open-source high-DOF tendon-driven dexterous hand.
 | `step/` | 整机 STEP 中性格式，任意 CAD 软件均可打开 |
 | `pcb/` | 电路板 Gerber 文件，原理图与 PCB 见立创开源广场 |
 | `images/` | 实物照片、PCB 渲染图与原理图 |
-| `docs/` | 设计文档 |
+| `docs/` | 设计文档 `机械手.pdf` |
 
 ## 电路板
 
@@ -48,6 +48,12 @@ Gerber 文件：[`pcb/AD7606b-gerber.zip`](pcb/AD7606b-gerber.zip)
 **原理图**
 
 <img src="images/ad7606b-schematic.png" width="600">
+
+## 设计文档
+
+[`docs/机械手.pdf`](docs/机械手.pdf)（17 页）
+
+> 本文档由作者 [@Artree021](https://github.com/Artree021) 在本科阶段参加竞赛时整理，内容仅供参考，不保证全部真实、准确或完整。
 
 ## 使用说明
 

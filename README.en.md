@@ -28,7 +28,7 @@ further development.
 | `step/` | Whole-hand STEP, opens in any CAD software |
 | `pcb/` | Gerber files; schematic and layout published on OSHWHub |
 | `images/` | Photos, PCB renders and schematic |
-| `docs/` | Design document |
+| `docs/` | Design document `机械手.pdf` |
 
 ## PCB
 
@@ -50,6 +50,14 @@ Gerber files: [`pcb/AD7606b-gerber.zip`](pcb/AD7606b-gerber.zip)
 **Schematic**
 
 <img src="images/ad7606b-schematic.png" width="600">
+
+## Design document
+
+[`docs/机械手.pdf`](docs/机械手.pdf) (17 pages, Chinese)
+
+> This document was put together by [@Artree021](https://github.com/Artree021)
+> during undergraduate student competitions. It is provided for reference only:
+> content is not guaranteed to be accurate, complete or up to date.
 
 ## Notes
 
