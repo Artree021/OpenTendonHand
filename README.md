@@ -14,9 +14,9 @@ An open-source high-DOF tendon-driven dexterous hand.
 ![机械手实物](images/hand-photo.jpg)
 
 <p align="center">
-  <img src="images/hand-front.png" height="360" alt="正面模型图">
+  <img src="images/hand-front.png" height="480" alt="正面模型图">
   &nbsp;&nbsp;&nbsp;
-  <img src="images/hand-back.png" height="360" alt="背面模型图">
+  <img src="images/hand-back.png" height="480" alt="背面模型图">
 </p>
 
 ## 目录
