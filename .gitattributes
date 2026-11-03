@@ -1,10 +1,10 @@
 * text=auto eol=lf
 
-# 模型与压缩包走 Git LFS，避免撑大仓库
-*.step   filter=lfs diff=lfs merge=lfs -text
-*.stp    filter=lfs diff=lfs merge=lfs -text
-*.SLDPRT filter=lfs diff=lfs merge=lfs -text
-*.SLDASM filter=lfs diff=lfs merge=lfs -text
-*.sldprt filter=lfs diff=lfs merge=lfs -text
-*.sldasm filter=lfs diff=lfs merge=lfs -text
-*.zip    filter=lfs diff=lfs merge=lfs -text
+# 模型与图片按二进制处理，不做换行转换
+*.SLDPRT binary
+*.SLDASM binary
+*.STEP   binary
+*.step   binary
+*.stp    binary
+*.png    binary
+*.jpg    binary

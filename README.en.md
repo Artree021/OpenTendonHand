@@ -12,14 +12,33 @@ This repository publishes the mechanical models, PCB files and design
 documentation of a tendon-driven dexterous hand, for study, reproduction and
 further development.
 
+![The hand](images/hand-photo.jpg)
+
 ## Contents
 
 | Directory | Contents |
 | --- | --- |
-| `solidworks/` | SolidWorks 2025 source models (.SLDPRT / .SLDASM), features intact |
-| `step/` | STEP neutral format, opens in any CAD software |
-| `pcb/` | PCB files |
-| `docs/` | Design document (Word) |
+| `solidworks/` | SolidWorks 2025 source models: 60 parts + 8 assemblies, features intact |
+| `step/` | Whole-hand STEP, opens in any CAD software |
+| `pcb/` | PCB, with schematic and layout published on OSHWHub |
+| `images/` | Photos, PCB renders and schematic |
+| `docs/` | Design document |
+
+## PCB
+
+The controller board (AD7606B) is published on OSHWHub (Chinese), together with
+its schematic, PCB, BOM and fabrication files:
+
+**https://oshwhub.com/shusheng60602/ad7606b**
+
+**3D render**
+![3D render](images/ad7606b-3d-render.png)
+
+**PCB front**
+![PCB front](images/ad7606b-pcb-front.png)
+
+**Schematic**
+![Schematic](images/ad7606b-schematic.png)
 
 ## Notes
 
