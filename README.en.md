@@ -14,13 +14,18 @@ further development.
 
 ![The hand](images/hand-photo.jpg)
 
+<p align="center">
+  <img src="images/hand-front.png" width="380" alt="Front view">
+  <img src="images/hand-back.png" width="380" alt="Back view">
+</p>
+
 ## Contents
 
 | Directory | Contents |
 | --- | --- |
 | `solidworks/` | SolidWorks 2025 source models: 60 parts + 8 assemblies, features intact |
 | `step/` | Whole-hand STEP, opens in any CAD software |
-| `pcb/` | PCB, with schematic and layout published on OSHWHub |
+| `pcb/` | Gerber files; schematic and layout published on OSHWHub |
 | `images/` | Photos, PCB renders and schematic |
 | `docs/` | Design document |
 
@@ -31,14 +36,16 @@ its schematic, PCB, BOM and fabrication files:
 
 **https://oshwhub.com/shusheng60602/ad7606b**
 
+Gerber files: [`pcb/AD7606b-gerber.zip`](pcb/AD7606b-gerber.zip)
+
 **3D render**
-![3D render](images/ad7606b-3d-render.png)
+<img src="images/ad7606b-3d-render.png" width="600">
 
 **PCB front**
-![PCB front](images/ad7606b-pcb-front.png)
+<img src="images/ad7606b-pcb-front.png" width="600">
 
 **Schematic**
-![Schematic](images/ad7606b-schematic.png)
+<img src="images/ad7606b-schematic.png" width="600">
 
 ## Notes
 

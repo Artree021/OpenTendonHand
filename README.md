@@ -13,13 +13,18 @@ An open-source high-DOF tendon-driven dexterous hand.
 
 ![机械手实物](images/hand-photo.jpg)
 
+<p align="center">
+  <img src="images/hand-front.png" width="380" alt="正面模型图">
+  <img src="images/hand-back.png" width="380" alt="背面模型图">
+</p>
+
 ## 目录
 
 | 目录 | 内容 |
 | --- | --- |
 | `solidworks/` | SolidWorks 2025 源模型：60 个零件 + 8 个装配体，特征完整可编辑 |
 | `step/` | 整机 STEP 中性格式，任意 CAD 软件均可打开 |
-| `pcb/` | 电路板，原理图与 PCB 见立创开源广场 |
+| `pcb/` | 电路板 Gerber 文件，原理图与 PCB 见立创开源广场 |
 | `images/` | 实物照片、PCB 渲染图与原理图 |
 | `docs/` | 设计文档 |
 
@@ -29,14 +34,16 @@ An open-source high-DOF tendon-driven dexterous hand.
 
 **https://oshwhub.com/shusheng60602/ad7606b**
 
+Gerber 文件：[`pcb/AD7606b-gerber.zip`](pcb/AD7606b-gerber.zip)
+
 **3D 渲染**
-![3D 渲染](images/ad7606b-3d-render.png)
+<img src="images/ad7606b-3d-render.png" width="600">
 
 **PCB 正面**
-![PCB 正面](images/ad7606b-pcb-front.png)
+<img src="images/ad7606b-pcb-front.png" width="600">
 
 **原理图**
-![原理图](images/ad7606b-schematic.png)
+<img src="images/ad7606b-schematic.png" width="600">
 
 ## 使用说明
 
