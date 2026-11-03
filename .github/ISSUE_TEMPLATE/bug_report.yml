@@ -1,0 +1,67 @@
+name: Bug report
+description: Something is broken, or a document is wrong.
+title: "[bug] "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report. For safety issues (something that could hurt a
+        person or start a fire), please **do not** open a public issue — see
+        [SECURITY.md](../blob/main/SECURITY.md).
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      description: Which part of the project is affected?
+      options:
+        - Documentation
+        - Mechanical design
+        - Electronics
+        - Firmware
+        - Software / SDK
+        - Build guide
+        - Repository / tooling
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: Describe the actual behaviour, with the exact command or file involved.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How to reproduce
+      description: Steps, file names, revisions, or a photo for hardware issues.
+    validations:
+      required: false
+
+  - type: input
+    id: revision
+    attributes:
+      label: Revision / commit
+      description: Output of `git rev-parse --short HEAD`, or the release tag.
+    validations:
+      required: false
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, toolchain version, hardware revision, anything else relevant.
+      placeholder: "Windows 11, Python 3.12, firmware v0.0.0"
+    validations:
+      required: false

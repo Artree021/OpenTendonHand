@@ -1,0 +1,84 @@
+# ---- Operating system ----
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+desktop.ini
+*.lnk
+
+# ---- OneDrive / Office lock files ----
+~$*
+*.tmp
+
+# ---- Editors and IDEs ----
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+.claude/
+.cursor/
+
+# ---- CAD caches and autosaves ----
+*.bak
+*.bak.*
+*.autosave
+*.lock
+*.lck
+*_bak/
+*-backups/
+Autodesk/
+Fusion360/
+*.f3d.bak
+_src/
+.3mf.bak
+
+# ---- EDA output that is regenerated ----
+*-backups/
+*.kicad_prl
+fp-info-cache
+*.gbrjob
+*.drl.tmp
+*_rescue/
+*.SchDoc.bak
+*.PcbDoc.bak
+History/
+__Previews/
+*.pcb_lib
+*.kicad_pro.lck
+
+# ---- Build outputs ----
+build/
+dist/
+out/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+!firmware/**/*.bin
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# ---- Node ----
+node_modules/
+.pnpm-store/
+*.log
+npm-debug.log*
+
+# ---- OS-level scratch ----
+*.stackdump
