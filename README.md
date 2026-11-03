@@ -1,3 +1,9 @@
+<div align="right">
+
+[![README-EN](https://img.shields.io/badge/README-English-blue)](README.en.md) [![README-ZH](https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87-red)](README.md)
+
+</div>
+
 # OpenTendonHand
 
 **开源高自由度线驱灵巧手**
